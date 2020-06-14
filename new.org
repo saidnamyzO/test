@@ -1,0 +1,18 @@
+#+TITLE: Test
+
++ Chapter 1
++ [[Pushkin]]
+
+* Heading 1
+** Heading 2
+*** Heading 3
+* Heading 1
+* Pushkin
+Pushkin is considered to be backbone of Russian poetry. Therefore it is not surprising that his poems are among the best known in Russia and are an overwhelming majority in the school curriculum. Even then, there are certain poems that stand out, like this classic 1825 love poem dedicated to a mysterious heartbreaker. Pushkin wrote it during his exile to Mikhailovskoe village. It has since then become the love poem of an epoque and gained even more popularity when put to music by composer Mikhail Glinka.
+
+#+begin_verse
+In ecstasy the heart is beating,
+Old joys for it anew revive;
+Inspired and God-filled, it is greeting
+The fire, and tears, and love alive.
+#+end_verse
