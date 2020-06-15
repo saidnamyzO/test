@@ -1,6 +1,6 @@
 #+TITLE: Test
 
-+ Chapter 1
++ [[*Heading 1][Chapter]]
 + [[Pushkin]]
 
 * Heading 1
@@ -17,3 +17,8 @@ Old joys for it anew revive;
 Inspired and God-filled, it is greeting
 The fire, and tears, and love alive.
 #+end_verse
++
++
++
++
++
