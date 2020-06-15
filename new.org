@@ -17,8 +17,10 @@ Old joys for it anew revive;
 Inspired and God-filled, it is greeting
 The fire, and tears, and love alive.
 #+end_verse
-+
-+
-+
-+
-+
+1.
+2.
+3.
+4.
+5.
+
+This text won't be staged
